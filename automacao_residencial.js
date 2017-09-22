@@ -20,6 +20,6 @@ function AlteraRele2(){
     } else {
         document.getElementById("estado_2").innerHTML="0";
         document.getElementById("rele_2").innerHTML="<div class='rele2_desligado'></div>";
-        document.getElementById("botao_2").innerHTML="<a href='/?2_ligar' class='botao_2'>Liga</a>";
+        document.getElementById("botao_2").innerHTML="<a href='/?2_ligar' class='botao_2'>Liga teste</a>";
     }
 }
